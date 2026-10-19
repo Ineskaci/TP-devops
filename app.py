@@ -1,1 +1,0 @@
-print("Bienvenue sur le site")
